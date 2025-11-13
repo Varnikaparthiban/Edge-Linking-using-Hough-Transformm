@@ -24,10 +24,12 @@ Using the HoughLinesP(),detect line co-ordinates for every points in the images.
 ## Output
 
 ### Input image and grayscale image
-![output](./p1.png)
+<img width="1391" height="423" alt="image" src="https://github.com/user-attachments/assets/13feec51-3927-49ac-a6a2-263f832a09ef" />
+
 
 ### Canny Edge detector output
-![output](./p2.png)
+<img width="1390" height="422" alt="image" src="https://github.com/user-attachments/assets/da05ac33-b2bd-48cc-a7c7-94558230effe" />
+
 
 ### Display the result of Hough transform
-![output](./p3.png)
+<img width="1105" height="673" alt="image" src="https://github.com/user-attachments/assets/69d206f9-6dfa-426d-b01a-2d001fad7a75" />
